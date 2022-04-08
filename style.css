@@ -1,0 +1,51 @@
+body {
+    background-color:black;
+}
+
+div.poster {
+    background-color:rgb(167, 161, 228);
+    width:75%;
+}
+
+div.small {
+    font-family:'Franklin Gothic Medium';
+    font-size:25px;
+    text-align:left;
+    padding-bottom:18px;
+    border-top:1px solid rgb(76, 0, 255);
+}
+
+div.text {
+    font-family:arial;
+    font-weight:3000px;
+    text-align:left;
+    text-transform:uppercase;
+    transition:0.3s;
+    border-top:1px solid rgb(162, 0, 255);
+}
+
+div.text.two {
+    font-family:'Lucida Sans Regular';
+    text-align:right;
+    text-transform:uppercase;
+    transition:0.5s;
+    border-top:1px solid rgb(76, 0, 255);
+}
+
+div.text.three {
+    font-size:100px;
+}
+
+div.text.four {
+    font-size:60px;
+}
+
+.w1-2{
+    width:70%;
+    size:100pt;
+}
+
+.w2-2{
+    width:40%;
+    size:80pt;
+}
